@@ -4,15 +4,18 @@
 - Nombre: Julian Ramirez
 - Correo: josuejrr93@gmail.com
 
-## Actividad 1 
 
-- Programa 1
-- Programa 2
+## Actividad 3 Programas Basicos I
 
-## Actividad 2
+- p001-hola-mundo.py
+- p002-area-circulo.py
+- p003-area-triangulo.py
+- p004-paga-trabajador.py
+- p005-calculadora-imc.py
+- p006-conversor-temperatura.py
+- p007-entrada-multiple.py
+- p008-entrada-con-espacio.py
 
-
-- Programa 1
-
+## Repositorio 
 JJulian18
 josuejrr93@gmail.com
