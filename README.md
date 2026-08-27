@@ -44,7 +44,7 @@
 ***
 ***
 
-## <span style="color:green"> Actividad 4 Programas Basicos II 
+## <span style="color:green"> Actividad 5 Programas hechos en clase
 
 
 - p023-verificar-numero.py
@@ -57,6 +57,20 @@
 
 ***
 ***
+
+## <span style="color:green"> Actividad 6 Programas hechos en clase
+
+
+- p030-verifica-suma.py
+- p031-2da-ley-de-newton.py
+- p032-aceptar-estudiante.py
+- p033-aceptar-estudiante-v2.py
+- p034-tipo-angulo.py
+- p035-tipo-triangulo.py
+
+***
+***
+
 ##  <span style="color:lightgreen">Repositorio 
 - JJulian18
 - josuejrr93@gmail.com
