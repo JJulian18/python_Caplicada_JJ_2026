@@ -71,6 +71,17 @@
 ***
 ***
 
+## <span style="color:green"> Tarea 2 Ejecución condicional
+
+- p036-numeros-consecutivos.py
+- p037-numero-mayor.py
+- p038-dia-semana.py
+- p039-numeros-romanos.py
+- p040-calculo-notas.py
+- p041-aceptar-estudiante-v2
+- p042-precio-entrada-cine.py
+- p043-calculadora-anio-bisiesto.py 
+
 ##  <span style="color:lightgreen">Repositorio 
 - JJulian18
 - josuejrr93@gmail.com
