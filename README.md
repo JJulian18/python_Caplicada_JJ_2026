@@ -98,7 +98,7 @@
 
 ***
 ***
-## <span style="color:green"> Actividad 7 Programas hechos en clase
+## <span style="color:green"> Actividad 8 Programas hechos en clase
 
 - p052-tabla-conversion.py
 - p053-conjetura-collatz.py
@@ -108,7 +108,19 @@
 - p057-interes-simple.py
 ***
 ***
-##  <span style="color:lightgreen">Repositorio 
+## <span style="color:green"> Tarea 3 Ejecución repetitiva - while
+
+- p058-impares-ascendente.py
+- p059-pares-descendente.py
+- p060-promedio-suma.py
+- p061-suma-200.py
+- p062-conversion-temperaturas.py
+- p063-numero-mayor.py
+- p064-verificar-palindromo.py
+
+***
+***
+##  <span style="color:lightgreen">Repositorio  
 - JJulian18
 - josuejrr93@gmail.com
 
