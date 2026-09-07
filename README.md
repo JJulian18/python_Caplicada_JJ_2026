@@ -120,6 +120,20 @@
 
 ***
 ***
+## <span style="color:green"> Tarea 4 Ejecucion repetitiva - for
+
+- p065-conteo-ascendente-for.py
+- p066-conteo-ascendente-for-v2.py
+- p067-conteo-descendente-for.py
+- p068-conteo-descendente-for-v2.py
+- p069-arriba-abajo.py
+- p070-suma-pares-impares.py
+- p071-suma-promedio-numeros.py
+- p072-suma-mutiplos.py
+- p073-cifrado-cesar.py
+
+***
+***
 ##  <span style="color:lightgreen">Repositorio  
 - JJulian18
 - josuejrr93@gmail.com
