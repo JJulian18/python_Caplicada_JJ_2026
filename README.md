@@ -134,8 +134,28 @@
 
 ***
 ***
+## <span style="color:green"> Tarea 5 Ejecucion repetitiva - for anidados
+
+- p074-tablas-todas.py
+- p075-triangulo-caracter.py
+- p076-piramide-caracter.py
+- p077-factorial-numeros.py
+- p078-combina-colores.py
+- p079-suma-potencias.py
+
+***
+***
+## <span style="color:green"> Tarea 6 Ciclo for - Casos de Aplicacion
+
+- p080-compara-rendimiento-inversion.py
+- p081-plan-ahorro-depistos-mensuales.py
+- p082-cuadro-hueco-caracter.py
+- p083-rombo-caracter.py
+- p084-triangulo-invertido-numeros.py
+
+***
+***
 ##  <span style="color:lightgreen">Repositorio  
 - JJulian18
 - josuejrr93@gmail.com
-
 
