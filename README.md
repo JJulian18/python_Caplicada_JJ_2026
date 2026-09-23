@@ -120,7 +120,7 @@
 
 ***
 ***
-## <span style="color:green"> Tarea 4 Ejecucion repetitiva - for
+## <span style="color:green"> Actividad 09 - Programas hechos en clase
 
 - p065-conteo-ascendente-for.py
 - p066-conteo-ascendente-for-v2.py
@@ -134,7 +134,8 @@
 
 ***
 ***
-## <span style="color:green"> Tarea 5 Ejecucion repetitiva - for anidados
+
+## <span style="color:green"> Actividad 10 - Ejecución repetitiva - Parte 4
 
 - p074-tablas-todas.py
 - p075-triangulo-caracter.py
@@ -145,17 +146,26 @@
 
 ***
 ***
-## <span style="color:green"> Tarea 6 Ciclo for - Casos de Aplicacion
+
+## <span style="color:green"> Tarea 4 - Ciclos for
 
 - p080-compara-rendimiento-inversion.py
 - p081-plan-ahorro-depistos-mensuales.py
 - p082-cuadro-hueco-caracter.py
 - p083-rombo-caracter.py
 - p084-triangulo-invertido-numeros.py
+***
+***
+## <span style="color:red"> Examen 1 Primer examen parcial
+
+- p085-simulador-venta-combustible.py
+- p085-bitacora-ia.pdf
+- p085-bitacora-ia.md
 
 ***
 ***
 ##  <span style="color:lightgreen">Repositorio  
 - JJulian18
 - josuejrr93@gmail.com
+
 

@@ -6,7 +6,7 @@ while True:
     print("Generador de Combinaciones de Colores")
     print("-" * 60)
 
-    colores = input("Ingresa los colores separados por comas: ").strip().split(',')
+    colores = input("Ingresa los colores separados por comas: ").replace(' ', '').split(',')
 
     print(f"\nColores base: {colores}")
     print("--- Combinaciones Posibles ---")
