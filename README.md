@@ -164,6 +164,16 @@
 
 ***
 ***
+## <span style="color:green"> Actividad 11 - Listas en Python - Parte 1
+
+- p086-acceder-lista.py
+- p087-modificar-lista.py
+- p088-agregar-lista.py
+- p089-eliminar-lista.py
+- p090-iterar-lista.py
+- p091-lista-de-gastos.py
+***
+***
 ##  <span style="color:lightgreen">Repositorio  
 - JJulian18
 - josuejrr93@gmail.com
