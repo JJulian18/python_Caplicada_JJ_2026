@@ -1,11 +1,13 @@
-# <span style="color:orange" > <p align="center">Computacion Aplicada </p>
-## <span style="color:orange">Programa AD26
+<h1 align="center"><span style="color:orange">Computación Aplicada</span></h1>
+
+## <span style="color:orange">Programa AD26</span>
 
 - Nombre: Julian Ramirez
 - Correo: josuejrr93@gmail.com
 
+***
 
-## <span style="color:green"> Actividad 3 Programas Basicos I
+## <span style="color:green">Actividad 3 - Programas básicos I</span>
 
 - p001-hola-mundo.py
 - p002-area-circulo.py
@@ -17,20 +19,19 @@
 - p008-entrada-con-espacio.py
 
 ***
-***
 
-## <span style="color:green"> Actividad 4 Programas Basicos II 
+## <span style="color:green">Actividad 4 - Programas básicos II</span>
 
-- p009-promedio-de-calificaciones.py 
-- p010-operaciones-matematicas.py 
+- p009-promedio-de-calificaciones.py
+- p010-operaciones-matematicas.py
 - p011-operadores-asignacion.py
-- p012-funcion-matematicas-equacion.py 
-- p013-funciones-matematicas-precios.py 
+- p012-funcion-matematicas-equacion.py
+- p013-funciones-matematicas-precios.py
 - p014-funciones-trigonometricas.py
 
 ***
-***
-## <span style="color:green"> Tarea 1 Elementos Basicos
+
+## <span style="color:green">Tarea 1 - Elementos básicos</span>
 
 - p015-hipotenusa-triangulo.py
 - p016-tercer-angulo.py
@@ -42,10 +43,8 @@
 - p022-resistencia-equivalente-paralelo.py
 
 ***
-***
 
-## <span style="color:green"> Actividad 5 Programas hechos en clase
-
+## <span style="color:green">Actividad 5 - Programas hechos en clase</span>
 
 - p023-verificar-numero.py
 - p024-verificar-numero-v2.py
@@ -56,10 +55,8 @@
 - p029-calculadora-descuento.py
 
 ***
-***
 
-## <span style="color:green"> Actividad 6 Programas hechos en clase
-
+## <span style="color:green">Actividad 6 - Programas hechos en clase</span>
 
 - p030-verifica-suma.py
 - p031-2da-ley-de-newton.py
@@ -69,23 +66,21 @@
 - p035-tipo-triangulo.py
 
 ***
-***
 
-## <span style="color:green"> Tarea 2 Ejecución condicional
+## <span style="color:green">Tarea 2 - Ejecución condicional</span>
 
 - p036-numeros-consecutivos.py
 - p037-numero-mayor.py
 - p038-dia-semana.py
 - p039-numeros-romanos.py
 - p040-calculo-notas.py
-- p041-aceptar-estudiante-v2
+- p041-aceptar-estudiante-v2.py
 - p042-precio-entrada-cine.py
-- p043-calculadora-anio-bisiesto.py 
+- p043-calculadora-anio-bisiesto.py
 
 ***
-***
 
-## <span style="color:green"> Actividad 7 Programas hechos en clase
+## <span style="color:green">Actividad 7 - Programas hechos en clase</span>
 
 - p044-conteo-ascendente.py
 - p045-conteo-ascendente-v2.py
@@ -97,8 +92,8 @@
 - p051-adivina-numero.py
 
 ***
-***
-## <span style="color:green"> Actividad 8 Programas hechos en clase
+
+## <span style="color:green">Actividad 8 - Programas hechos en clase</span>
 
 - p052-tabla-conversion.py
 - p053-conjetura-collatz.py
@@ -106,9 +101,10 @@
 - p055-tabla-multiplicar-while-v2.py
 - p056-contador-vocales.py
 - p057-interes-simple.py
+
 ***
-***
-## <span style="color:green"> Tarea 3 Ejecución repetitiva - while
+
+## <span style="color:green">Tarea 3 - Ejecución repetitiva (while)</span>
 
 - p058-impares-ascendente.py
 - p059-pares-descendente.py
@@ -119,8 +115,8 @@
 - p064-verificar-palindromo.py
 
 ***
-***
-## <span style="color:green"> Actividad 09 - Programas hechos en clase
+
+## <span style="color:green">Actividad 9 - Programas hechos en clase</span>
 
 - p065-conteo-ascendente-for.py
 - p066-conteo-ascendente-for-v2.py
@@ -133,9 +129,8 @@
 - p073-cifrado-cesar.py
 
 ***
-***
 
-## <span style="color:green"> Actividad 10 - Ejecución repetitiva - Parte 4
+## <span style="color:green">Actividad 10 - Ejecución repetitiva (Parte 4)</span>
 
 - p074-tablas-todas.py
 - p075-triangulo-caracter.py
@@ -145,26 +140,26 @@
 - p079-suma-potencias.py
 
 ***
-***
 
-## <span style="color:green"> Tarea 4 - Ciclos for
+## <span style="color:green">Tarea 4 - Ciclos for</span>
 
 - p080-compara-rendimiento-inversion.py
 - p081-plan-ahorro-depistos-mensuales.py
 - p082-cuadro-hueco-caracter.py
 - p083-rombo-caracter.py
 - p084-triangulo-invertido-numeros.py
+
 ***
-***
-## <span style="color:red"> Examen 1 Primer examen parcial
+
+## <span style="color:red">Examen 1 - Primer examen parcial</span>
 
 - p085-simulador-venta-combustible.py
 - p085-bitacora-ia.pdf
 - p085-bitacora-ia.md
 
 ***
-***
-## <span style="color:green"> Actividad 11 - Listas en Python - Parte 1
+
+## <span style="color:green">Actividad 11 - Listas en Python (Parte 1)</span>
 
 - p086-acceder-lista.py
 - p087-modificar-lista.py
@@ -172,10 +167,21 @@
 - p089-eliminar-lista.py
 - p090-iterar-lista.py
 - p091-lista-de-gastos.py
+
 ***
+
+## <span style="color:green">Actividad 12 - Listas en Python (Parte 2)</span>
+
+- p092-procesar-calificaciones.py
+- p093-consolidar-ventas.py
+- p094-precio-acciones.py
+- p095-registro-estudiantes.py
+- p096-procesar-datos-sensores.py
+- p097-producto-punto.py
+
 ***
-##  <span style="color:lightgreen">Repositorio  
+
+## <span style="color:lightgreen">Repositorio</span>
+
 - JJulian18
 - josuejrr93@gmail.com
-
-
