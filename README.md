@@ -181,6 +181,17 @@
 
 ***
 
+## <span style="color:green">Actividad 13 - Listas en Python (Parte 3)</span>
+
+- p098-cuadrados-lista.py
+- p099-filtrar-pares.py
+- p100-normalizar-nombres.py
+- p101-clasificar-temperaturas.py
+- p102-aplanar-matriz.py
+- p103-resumen-ventas.py
+
+***
+
 ## <span style="color:lightgreen">Repositorio</span>
 
 - JJulian18
