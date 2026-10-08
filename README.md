@@ -192,6 +192,30 @@
 
 ***
 
+## <span style="color:green">Tarea 5 - Listas</span>
+
+- p104-procesar-notas.py
+- p105-listas-multiplica.py
+- p106-mes-dia-nombre.py
+- p107-listas-aleatorios-suma.py
+- p108-ciudades.py
+- p109-lista-impares.py
+- p110-comprension-filtra-palabras.py
+- p111-comprension-pares-cuadrados.py
+
+***
+
+## <span style="color:green">Actividad 14 - Diccionarios en Python (Parte 1)</span>
+
+- p112-datos-estudiante.py
+- p113-calificaciones-estudiante.py
+- p114-nombres-edades.py
+- p115-conversor-unidades.py
+- p116-conversion-divisas.py
+- p117-punto-de-venta.py
+
+***
+
 ## <span style="color:lightgreen">Repositorio</span>
 
 - JJulian18
