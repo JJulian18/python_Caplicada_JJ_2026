@@ -159,7 +159,7 @@
 
 ***
 
-## <span style="color:green">Actividad 11 - Listas en Python (Parte 1)</span>
+## <span style="color:green">Actividad 12 - Listas en Python (Parte 1)</span>
 
 - p086-acceder-lista.py
 - p087-modificar-lista.py
@@ -170,7 +170,7 @@
 
 ***
 
-## <span style="color:green">Actividad 12 - Listas en Python (Parte 2)</span>
+## <span style="color:green">Actividad 13 - Listas en Python (Parte 2)</span>
 
 - p092-procesar-calificaciones.py
 - p093-consolidar-ventas.py
@@ -181,7 +181,7 @@
 
 ***
 
-## <span style="color:green">Actividad 13 - Listas en Python (Parte 3)</span>
+## <span style="color:green">Actividad 15 - Listas en Python (Parte 3)</span>
 
 - p098-cuadrados-lista.py
 - p099-filtrar-pares.py
@@ -205,7 +205,7 @@
 
 ***
 
-## <span style="color:green">Actividad 14 - Diccionarios en Python (Parte 1)</span>
+## <span style="color:green">Actividad 16 - Diccionarios en Python (Parte 1)</span>
 
 - p112-datos-estudiante.py
 - p113-calificaciones-estudiante.py
