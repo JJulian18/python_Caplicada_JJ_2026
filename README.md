@@ -216,6 +216,15 @@
 
 ***
 
+## <span style="color:green">Actividad 17 - Diccionarios en Python (Parte 2)</span>
+
+- p118-lote-autos.py
+- p119-registro-estudiantes.py
+- p120-reporte-ventas.py
+- p121-area-figuras.py
+
+***
+
 ## <span style="color:lightgreen">Repositorio</span>
 
 - JJulian18
